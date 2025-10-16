@@ -59,6 +59,26 @@ p {
   padding: 110px 0 0;
 }
 
+.about-section h1 {
+  font-size: 64px;
+  line-height: 80px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.about-section h2 {
+  font-size: 18px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 600;
+}
+
+.about-section img {
+  border-radius: 5%;
+}
+
+.about-section {
+  padding: 160px 20px;
+}
+
 @media (max-width: 900px) {
   .project-description {
     padding: 0;
@@ -76,5 +96,10 @@ p {
 
   .btn-branding-outline {
     margin-bottom: 20px;
+  }
+
+  .about-section {
+    text-align: center;
+    padding: 0;
   }
 }
