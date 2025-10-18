@@ -71,6 +71,17 @@ p {
   font-weight: 600;
 }
 
+.content-section h3 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 24px;
+  line-height: 1.5;
+  margin: 20px 0 0;
+}
+
+.content-section p {
+  font-size: 14px;
+}
+
 .content-section img {
   border-radius: 5%;
 }
